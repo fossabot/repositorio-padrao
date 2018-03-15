@@ -6,7 +6,10 @@
 
 | **`Issues`** | **`Forks`** | **`Stars`** | **`License`** | **`Twitter`** |
 |--------------|-------------|-------------|---------------|---------------|
-| [![GitHub issues](https://img.shields.io/github/issues/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao/issues) | [![GitHub forks](https://img.shields.io/github/forks/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao/network) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) |
+| [![GitHub issues](https://img.shields.io/github/issues/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao/issues) | [![GitHub forks](https://img.shields.io/github/forks/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao/network) | [![GitHub stars](https://img.shields.io/github/stars/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao/stargazers) | [![GitHub license](https://img.shields.io/github/license/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao) | [![Twitter](https://img.shields.io/twitter/url/https/github.com/tassianoalencar/repositorio-padrao.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftassianoalencar%2Frepositorio-padrao)
+ |
+
+
 
 
 Descrição do projeto
