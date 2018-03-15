@@ -6,7 +6,7 @@
 
 | **`Maintainability`** | **`Forks`** | **`Stars`** | **`License`** | **`Twitter`** |
 |--------------|-------------|-------------|---------------|---------------|
-| [![Maintainability](https://api.codeclimate.com/v1/badges/bcf42baae3f65f8d2621/maintainability)](https://codeclimate.com/github/tassianoalencar/repositorio-padrao/maintainability) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) |
+| [![GitHub issues](https://img.shields.io/github/issues/tassianoalencar/repositorio-padrao.svg)](https://github.com/tassianoalencar/repositorio-padrao/issues) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) |
 
 
 Descrição do projeto
