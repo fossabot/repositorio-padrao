@@ -6,7 +6,7 @@
 
 | **`Issues`** | **`Forks`** | **`Stars`** | **`License`** | **`Twitter`** |
 |--------------|-------------|-------------|---------------|---------------|
-|[![GitHub issues](https://img.shields.io/github/issues/tassianoalencar/repositorio-padrao.png)](https://github.com/tassianoalencar/repositorio-padrao/issues) | [![GitHub forks](https://img.shields.io/github/forks/tassianoalencar/repositorio-padrao.png?style=plastic)](https://github.com/tassianoalencar/repositorio-padrao/network) | [![GitHub stars](https://img.shields.io/github/stars/tassianoalencar/repositorio-padrao.png?style=plastic)](https://github.com/tassianoalencar/repositorio-padrao/stargazers) | [![GitHub license](https://img.shields.io/github/license/tassianoalencar/repositorio-padrao.png?style=plastic)](https://github.com/tassianoalencar/repositorio-padrao) | [![GitHub license](https://img.shields.io/github/license/tassianoalencar/repositorio-padrao.png?style=plastic)](https://github.com/tassianoalencar/repositorio-padrao) |
+|[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) |
 
 
 Descrição do projeto
