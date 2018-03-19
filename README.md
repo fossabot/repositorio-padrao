@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://octodex.github.com/images/jenktocat.jpg" width="350"><br><br>
+  <img src="https://raw.githubusercontent.com/tassianoalencar/repositorio-padrao/master/images/object-reference-javascript.png" width="350"><br><br>
 </div>
 
 -----------------
