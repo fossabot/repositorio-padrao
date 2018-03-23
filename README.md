@@ -8,7 +8,8 @@
   
 | **`Issues`** | **`Forks`** | **`Stars`** | **`License`** | **`Twitter`** |
 |--------------|-------------|-------------|---------------|---------------|
-| [![GitHub issues](https://img.shields.io/github/issues/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao/issues) | [![GitHub forks](https://img.shields.io/github/forks/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao/network) | [![GitHub stars](https://img.shields.io/github/stars/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao/stargazers) | [![GitHub license](https://img.shields.io/github/license/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao) | [![Twitter](https://img.shields.io/twitter/url/https/github.com/tassianoalencar/repositorio-padrao.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftassianoalencar%2Frepositorio-padrao) |
+| [![GitHub issues](https://img.shields.io/github/issues/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao/issues) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftassianoalencar%2Frepositorio-padrao.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftassianoalencar%2Frepositorio-padrao?ref=badge_shield)
+| [![GitHub forks](https://img.shields.io/github/forks/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao/network) | [![GitHub stars](https://img.shields.io/github/stars/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao/stargazers) | [![GitHub license](https://img.shields.io/github/license/tassianoalencar/repositorio-padrao.svg?style=flat-square)](https://github.com/tassianoalencar/repositorio-padrao) | [![Twitter](https://img.shields.io/twitter/url/https/github.com/tassianoalencar/repositorio-padrao.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftassianoalencar%2Frepositorio-padrao) |
 
 </center>
 
@@ -32,3 +33,7 @@ class NomeClasse extends Model implements ModelInterface
 }
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftassianoalencar%2Frepositorio-padrao.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftassianoalencar%2Frepositorio-padrao?ref=badge_large)
